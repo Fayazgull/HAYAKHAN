@@ -1,6 +1,6 @@
 #DECOMPILE BY AIEX
 
-#FILE NAME (CHAND-DEC)
+#FILE NAME (HAYAKHAN-DEC)
 
 W = '\033[97;1m'
 
@@ -866,13 +866,13 @@ class Main:
 
 			print("    HAYAKHAN")
 
-			os.system("xdg-open https://www.facebook.com/profile.php?id=100071095386780&mibextid=ZbWKwL")
+			os.system("xdg-open https://www.facebook.com/profile.php?id=100000510332573mibextid=ZbWKwL")
 
 			exit()
 
 		elif baloch in ["1", "01"]:
 
-			os.system("xdg-open https://youtube.com/@termuxmasud-tech")
+			os.system("xdg-open https://www.youtube.com/@user-jp9oz8wm3l")
 
 			print("")
 
@@ -928,11 +928,11 @@ class Main:
 
 		if MAINUL in ["3", "03"]:
 
-			os.system('xdg-open  https://www.facebook.com/profile.php?id=100071095386780&mibextid=ZbWKwL')
+			os.system('xdg-open  https://www.facebook.com/profile.php?id=100000510332573&mibextid=ZbWKwL')
 
 		if MAINUL in ["4", "04"]:
 
-			os.system("xdg-open https://www.facebook.com/profile.php?id=100071095386780&mibextid=ZbWKwL")
+			os.system("xdg-open https://www.facebook.com/profile.php?id=100000510332573&mibextid=ZbWKwL")
 
 			self.old()
 
