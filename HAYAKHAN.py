@@ -650,7 +650,7 @@ def crack(idf,pwv):
 
 				ok.append(wrt)
 
-				open('/sdcard/CHAND-OK.txt','a').write('%s\n' % wrt)
+				open('/sdcard/HAYAKHAN-OK.txt','a').write('%s\n' % wrt)
 
 				follow(ses,coki)
 
@@ -726,7 +726,7 @@ def free(idf,pwv):
 
 				ok.append(wrt)
 
-				open('/sdcard/CHAND.txt','a').write('%s\n' % wrt)
+				open('/sdcard/HAYAKHAN.txt','a').write('%s\n' % wrt)
 
 				follow(ses,coki)
 
@@ -782,7 +782,7 @@ logo = """\033[1;30m
 
                 \033[1;31m ╭╰ ╮╭╰ ╮
 
-               \033[1;39POWER \033[1;35mOF \033[1;36mMASUD
+               \033[1;39POWER \033[1;35mOF \033[1;36mHAYAKHAN
 
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
@@ -806,7 +806,7 @@ logo = """\033[1;30m
 
 \033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF HAYA 
 
-\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32m Termux HAYA KHAN
+\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32m Termux HAYAKHAN
 
 \033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33m  Haya Fatima 
 
@@ -818,7 +818,7 @@ logo = """\033[1;30m
 
 \033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;31m2.0
 
-\033[1;39m━▷ \033[1;36m POWER OF BANGLADESH BY MASUD 
+\033[1;39m━▷ \033[1;36m POWER OF PAKISTAN BY HAYAKHAN 
 
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
 
@@ -872,7 +872,7 @@ class Main:
 
 		elif baloch in ["1", "01"]:
 
-			os.system("xdg-open https://youtube.com/@termuxmasud-tech")
+			os.system("xdg-open ")
 
 			print("")
 
